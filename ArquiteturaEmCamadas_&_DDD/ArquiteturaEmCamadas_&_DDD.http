@@ -1,0 +1,6 @@
+@ArquiteturaEmCamadas___DDD_HostAddress = http://localhost:5097
+
+GET {{ArquiteturaEmCamadas___DDD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
